@@ -1,6 +1,6 @@
 # Privacy Policy for Focus Drop
 
-_Last updated: 22/12/2024
+_Last updated: 23/12/2024
 
 At **Focus Drop**, we value your privacy. In fact, we’ve designed this app so you can use it without ever worrying about your personal data being collected, stored, or shared. This privacy policy outlines everything you need to know about how we handle (or don’t handle) your data.
 
@@ -61,7 +61,7 @@ You’ll always have access to the latest version of our privacy policy.
 ## Contact Us
 
 If you have any questions or concerns about this privacy policy, feel free to reach out:  
-**Contact Form**: https://w02kn9z7oha.typeform.com/to/vth1qPof
+**Contact Form**: [Contact form] https://w02kn9z7oha.typeform.com/to/vth1qPof
 
 ---
 
